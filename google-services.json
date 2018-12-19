@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "78236358015",
+    "firebase_url": "https://l-ink-ionic.firebaseio.com",
+    "project_id": "l-ink-ionic",
+    "storage_bucket": "l-ink-ionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78236358015:android:62be92e1714da758",
+        "android_client_info": {
+          "package_name": "l.ink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78236358015-4kqkuhskdbimn3qvvpig3plbqm9ijj2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hYH_62ODoVr-iJ8ch35huC5_Za2BO9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
